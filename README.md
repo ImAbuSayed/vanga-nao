@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vanga-nao/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vanga Nao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vanga-nao/) |
+| **Get License** | [Official Music Licensing for Vanga Nao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vanga-nao/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকার এই রাতে তুমি শুধু আমারই.. শুধু আমারই..
+> উষ্ণ ছোঁয়ায় হারাবো দুজন প্রেমের সাগরে
+> মাতাল হাওয়া দোল দিয়ে যায় তোমার শরীরে
+> কাছে আসো আমার বুকে এই রঙিন প্রহরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
