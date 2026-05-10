@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vanga-nao/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Vanga Nao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vanga-nao/) |
+| **Get License** | [Commercial Licensing for Vanga Nao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vanga-nao/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `11cacf1dc8190d941b8eb1e2d3b312b5b96258c1c07e60ebb59967403350bef6` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

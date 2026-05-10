@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vanga Nao
+
+This log tracks the cryptographic history and versioning for the song **Vanga Nao** (vanga-nao).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T05:41:37.609918 | `v1` | `11cacf1dc8190d941b8eb1e2d3b312b5b96258c1c07e60ebb59967403350bef6` | `64227d4704cd51c31cb9bfceca90eccfaa444e148519bcb87bbf8a08e7c945b2` | `2026-05-11_vanga-nao-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
